@@ -6,11 +6,11 @@
     "AllClasses": "모든 직업",
     "Authenticate": "인증하기",
     "Back": "뒤로",
-    "Browse": "🦘 Browse",
+    "Browse": "검색",
     "Cancel": "취소",
     "Close": "닫기",
-    "Collapse": "🦘 Collapse",
-    "CollapseFilters": "🦘 Collapse Filters",
+    "Collapse": "접기",
+    "CollapseFilters": "필터 접기",
     "Confirm": "확인",
     "Customise": "커스텀 설정",
     "Delete": "삭제",
@@ -18,8 +18,8 @@
     "Dismiss": "닫기",
     "Done": "완료",
     "Enable": "활성화",
-    "Expand": "🦘 Expand",
-    "ExpandFilters": "🦘 Expand Filters",
+    "Expand": "펼치기",
+    "ExpandFilters": "필터 펼치기",
     "GatherInVault": "금고에 모으기",
     "GoToBNet": "Bungie.net으로 이동",
     "GoToMaps": "지도로 이동",
@@ -32,7 +32,7 @@
     "HideRedeemed": "완료한 항목 숨김",
     "Jump": "점프",
     "Lock": "잠금",
-    "Logout": "🦘 Logout",
+    "Logout": "로그아웃웃",
     "MemberRemove": "회원 삭제",
     "NextNth": "다음 {{number}}개",
     "SeeNextNth": "작업중인 업적이 없습니다. 업적을 고르고 작업을 시작하세요!",
@@ -52,14 +52,14 @@
     "ShowAll": "모두 보기",
     "ShowCollectionsRolls": "가능한 특성 보기",
     "ShowHiddenStats": "기본 능력치",
-    "TryAgain": "🦘 Try Again",
+    "TryAgain": "재시도하세요",
     "Unlock": "잠금 해제",
-    "UserReady": "🦘 Let's go!",
+    "UserReady": "시작해봅시다!",
     "ViewHistoricalData": "이전 판매 물품 보기",
-    "ViewMore": "🦘 View More"
+    "ViewMore": "더보기"
   },
   "Activity": {
-    "ActiveRotator": "🦘 Active Rotator",
+    "ActiveRotator": "활성화된 로테이션",
     "SelectDateInfo": "🦘 Select a date below and prepare to jump",
     "SelectDateWaiting": "🦘 Strap in—the more activities you play and the further you jump, the longer this'll take!\n\nBungie's API doesn't enable requesting activity history from a specific period, so we're doing a drive-by.",
     "Fireteam": {
@@ -97,14 +97,14 @@
     "ModifiersUnavailable": "현재 사용 불가능한 조정 옵션",
     "NoMedalsAwarded": "수여된 메달 없음",
     "NoStatsAvailable": "통계 없음",
-    "TeamScore": "🦘 Team Score",
-    "SelectMode": "🦘 Select Mode",
+    "TeamScore": "팀 점수",
+    "SelectMode": "모드 선택택",
     "SelectModeInfo": "특정 활동만 파고들고 싶다면, 상단의 인터페이스에서 모드를 선택하세요.",
     "Standing": {
       "Defeat": "패배",
-      "DidNotFinish": "🦘 Player did not finish",
-      "Mercy": "🦘 Mercy",
-      "Tie": "🦘 Tie",
+      "DidNotFinish": "완료 안함",
+      "Mercy": "자비",
+      "Tie": "무승부부",
       "Victory": "승리"
     },
     "State": {
@@ -145,8 +145,8 @@
       "Version": "이 오류를 제보할 때 다음 내용을 첨부해주세요."
     },
     "FriendlyError": {
-      "Description": "🦘 Please, do not tell Commander Zavala... Yet.",
-      "Name": "🦘 Pardon Our Dust"
+      "Description": "부탁인데, 자발라 사령관님께는 아무말하지 말아주세요... 아직은요.",
+      "Name": "너른 양해 부탁드립니다"
     },
     "NetworkError": {
       "Description": "네트워크 오류가 발생했습니다. 앱을 재시작하거나 다른 화면으로 이동하면 해결되는 일시적인 오류입니다.",
@@ -195,7 +195,7 @@
     "LinkPatreon": {
       "Description": "이 Bungie.net 프로필을 Patreon 계정과 연결",
       "Name": "🦘 Patreonアカウントとリンク",
-      "Placeholder": "zabalra_daemeori_shipgay@gmail.reef",
+      "Placeholder": "zabalra_daemeori@gmail.reef",
       "Success": "감사합니다! 이제 사용자의 이메일이 사용자의 프로필과 연결되었습니다.",
       "Info": "🦘 Some **Patreon** tiers include rewards such as **medals** which are displayed at the side of your player name and in dialogs. Enable display of any medals you've earned by entering the email associated with your Patreon account."
     },
@@ -217,23 +217,23 @@
     "DiffProfile": "🦘 You're viewing someone else's profile. You can look but if you try to push buttons, don't expect results!",
     "Equipment": {
       "Armor": "방어구",
-      "Auxiliary": "🦘 Auxiliary",
+      "Auxiliary": "보조",
       "Breakdown": "🦘 Breakdown",
       "Weapons": "무기"
     },
     "Filter": {
-      "ArcDamage": "🦘 Arc Damage",
+      "ArcDamage": "전기 피해",
       "DeepsightResonance": "심안",
-      "Favourite": "🦘 Favourite",
-      "Garbage": "🦘 Garbage",
-      "KineticDamage": "🦘 Kinetic Damage",
+      "Favourite": "즐겨찾기",
+      "Garbage": "쓰레기",
+      "KineticDamage": "물리 피해",
       "Shaped": "제작",
-      "SolarDamage": "🦘 Solar Damage",
-      "StasisDamage": "🦘 Stasis Damage",
-      "StrandDamage": "🦘 Strand Damage",
-      "VoidDamage": "🦘 Void Damage"
+      "SolarDamage": "태양 피해",
+      "StasisDamage": "시공 피해",
+      "StrandDamage": "초월 피해",
+      "VoidDamage": "공허 피해"
     },
-    "FiltersApplied": "🦘 Filters Applied"
+    "FiltersApplied": "필터 적용용"
   },
   "Clan": {
     "Administration": {
@@ -299,7 +299,7 @@
       "Deny": "거부",
       "DisplayName": "닉네임",
       "DownloadData": "데이터 다운로드",
-      "Glory": "영굉",
+      "Glory": "영광광",
       "Infamy": "악명 (초기화)",
       "Joined": "합류",
       "Kick": "강퇴",
@@ -328,25 +328,25 @@
     "Collectible": {
       "Commonality": "Voluspa에서 확인되는 유저 중 이 업적을 완료한 플레이어 비율입니다."
     },
-    "CollectiblesAcquired": "🦘 You have acquired all of these collectibles and chosen to hide them",
+    "CollectiblesAcquired": "해당 수집품들을 획득했고 숨기기로 했습니다.",
     "CollectiblesUnavailable": "🦘 There are no collectibles available for display",
     "Grouped": {
-      "Season": "🦘 Group by Season",
-      "Ungroup": "🦘 Ungroup"
+      "Season": "시즌별로 분류",
+      "Ungroup": "분류 취소"
     },
     "RecentlyDiscovered": "최근 발견",
-    "SetComplete": "🦘 Set complete",
+    "SetComplete": "완료로 설정",
     "SomeAcquiredSomeInvisible": "일부 획득, {{invisible}} 숨겨짐"
   },
   "Commendations": {
-    "Received": "🦘 Received",
-    "ReceivedAbr": "🦘 Recvd.",
-    "Sent": "🦘 Sent",
-    "SentAbr": "🦘 Sent"
+    "Received": "획득",
+    "ReceivedAbr": "획득",
+    "Sent": "보냄",
+    "SentAbr": "보냄"
   },
   "Common": {
-    "CurrentRankNth": "🦘 Current Rank: {{value}}",
-    "SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}",
+    "CurrentRankNth": "현재 랭크: {{value}}",
+    "SeasonEndsIn": "{{number}}시즌:{{duration}} 뒤 종료됩니다.",
     "Actions": "🦘 Actions",
     "Activate": "활성화",
     "Active": "🦘 Active",
@@ -367,13 +367,13 @@
     "Character": "🦘 Character",
     "BrowseNthMembers_plural": "🦘 Browse {{number}} Members",
     "CharacterClass": "캐릭터 직업",
-    "CharacterLight": "🦘 Character Light",
+    "CharacterLight": "캐릭터 빛",
     "CharacterSpecific": "🦘 As is with most Braytech features, this view is character-specific.",
     "Character_plural": "캐릭터",
     "Checklists": "체크리스트",
-    "Clan": "🦘 Clan",
-    "ClanMember": "🦘 Clan Member",
-    "ClanMember_plural": "🦘 Clan Members",
+    "Clan": "클랜",
+    "ClanMember": "클랜",
+    "ClanMember_plural": "클랜원",
     "ClanMembersNth_plural": "클랜원",
     "Classified": "기밀",
     "Collectibles": "수집품",
@@ -381,17 +381,17 @@
     "CollectionsScore": "🦘 Collections Score",
     "CommendationAbr_plural": "🦘 Comms.",
     "Completed": "완료함",
-    "CruciblePlaylist": "🦘 Crucible Playlist",
+    "CruciblePlaylist": "시련의 장 플레이리스트",
     "DateTime": "날짜/시간",
-    "Emblem": "🦘 Emblem",
-    "Emblem_plural": "🦘 Emblems",
+    "Emblem": "문양",
+    "Emblem_plural": "문양",
     "Empty": "🦘 Empty",
     "Equipment": "장비",
     "Error": "오류",
     "Event": "이벤트",
-    "EventNth": "🦘 1 Event",
-    "EventNth_plural": "🦘 {{count}} イベント",
-    "Examples": "🦘 Examples",
+    "EventNth": "🦘 1 이벤트",
+    "EventNth_plural": "{{count}} 이벤트",
+    "Examples": "보기",
     "Expiration": "만료",
     "Expired": "만료됨",
     "Expiry": "만료",
@@ -400,28 +400,28 @@
     "FeaturedNightfall": "선정된 황혼전",
     "FeaturedPlaylist": "선정된 플레이리스트",
     "Fireteam": "화력팀",
-    "Fireteam_plural": "🦘 Fireteams",
+    "Fireteam_plural": "화력팀",
     "FireteamMembers": "화력팀원",
     "FireteamReserves": "예비 화력팀",
     "FireteamSize": "화력팀 크기",
-    "Friend": "🦘 Friend",
-    "Friend_plural": "🦘 Friends",
+    "Friend": "친구",
+    "Friend_plural": "친구",
     "GloryPoints": "영광 점수",
-    "GuardianRank": "🦘 Guardian Rank",
-    "Guardians": "🦘 Guardians",
-    "Help": "🦘 Help",
+    "GuardianRank": "수호자 등급",
+    "Guardians": "수호자",
+    "Help": "도움말말",
     "HistoricalStats": "기록 통계",
     "InfamyPoints": "악명 점수",
     "Inspect": "조사",
     "Inventory": "인벤토리",
     "ItemRolls": "아이템 목록",
     "Items": "아이템",
-    "Loadout": "🦘 Loadout",
-    "Slot": "🦘 Slot {{number}}",
+    "Loadout": "로드아웃",
+    "Slot": "{{number}}번 슬롯",
     "LevelNth": "레벨 {{number}}",
     "Location": "위치",
     "Lore": "지식",
-    "LoreBook": "🦘 Lore Book",
+    "LoreBook": "지식",
     "Map": "지도",
     "Medal_plural": "메달",
     "MembersOnline": "{{number}}명 접속중",
@@ -430,35 +430,35 @@
     "NothingHereYet": "여긴 아직 아무것도 없어요.",
     "Objectives": "진척도",
     "Offline": "오프라인",
-    "Patreon": "🦘 Patreon",
+    "Patreon": "Patreon",
     "Patron_plural": "Patrons",
     "Player": "플레이어",
-    "Player_plural": "🦘 Players",
+    "Player_plural": "플레이어",
     "Preview": "미리보기",
-    "Profile": "🦘 Profile",
-    "Profile_plural": "🦘 Profiles",
+    "Profile": "프로필",
+    "Profile_plural": "프로필",
     "Progress": "🦘 Progress",
     "Progression": "진행 사항",
     "Quests": "퀘스트",
-    "Rank_plural": "🦘 Ranks",
-    "Rarity": "🦘 Rarity",
+    "Rank_plural": "등급",
+    "Rarity": "희귀도",
     "Record": "업적",
     "Record_plural": "업적",
     "Report_plural": "🦘 Reports",
     "Reputation": "평판",
     "Reset": "초기화",
-    "Reward": "🦘 Reward",
+    "Reward": "보상",
     "Reward_plural": "보상",
     "Savathûn'sCurse": "사바툰의 저주",
     "Score": "점수",
-    "Score_plural": "🦘 Scores",
+    "Score_plural": "점수",
     "ScoreValue": "획득 가능한 점수",
     "Screenshot": "스크린샷",
     "Search": "검색",
     "SeasonNth": "{{number}}시즌",
     "SeasonPass": "시즌 패스",
     "SeasonRank": "시즌 등급",
-    "SeasonYearNth": "🦘 Season {{season}}, Year {{year}}",
+    "SeasonYearNth": "{{season}} 시즌, {{year}}년차",
     "Season_plural": "시즌",
     "Settings": "설정",
     "Source": "출처",
@@ -472,14 +472,14 @@
     "Translator_plural": "번역가",
     "TrialsPassage": "시험 통행권",
     "TrialsPoints": "시험 점수",
-    "ActiveScore": "🦘 Active Score",
-    "LegacyScore": "🦘 Legacy Score",
+    "ActiveScore": "활성화된 점수",
+    "LegacyScore": "유산 점수",
     "TriumphScore": "업적 점수",
     "ActiveRecords": "🦘 Active Records",
     "LegacyRecords": "🦘 Legacy Records",
     "Triumphs": "업적",
     "Unknown": "알 수 없음",
-    "Users": "🦘 Users",
+    "Users": "플레이어어",
     "ValorPoints": "용맹 점수",
     "VanguardPoints": "선봉대 점수",
     "Vendor": "",
@@ -1186,220 +1186,9 @@
     "Troubleshooting": {
       "DumpServiceWorker": {
         "Description": "설치된 서비스 워크 등록을 취소하려고 합니다. 성공한 후, 앱을 새로 시작하면 새로운 서비스 워크를 대신 사용할 수 있습니다.",
-        "Name": "서비스 워크 덤프"
-      },
-      "UpdateServiceWorker": {
-        "Description": "서비스 워크를 즉시 업데이트 하려고 합니다. 이 기능을 사용하면 버튼이 일시적으로 비활성화됩니다. Braytech이 백그라운드에서 업데이트를 계속하는 동안 Braytech를 계속 사용할 수 있습니다. 성공한 후, 앱을 새로 시작하라는 메세지가 표시됩니다.",
-        "Name": "서비스 워크 업데이트"
-      }
-    },
-    "VisualFidelity": {
-      "Gay": {
-        "Description": "게이같은 새끼 ㅋㅋ. Braytech®의 존나 쩌는 한정판 기술과 뒤틀리는 배경으로 네 인생을 빛나게 만들어주마.",
-        "Name": "활성화 ✨"
-      },
-      "ReducedMotion": {
-        "Description": "여러 애니메이션을 비활성화하여 UI 애니메이션의 사용량을 줄입니다. CPU 사용을 줄입니다.",
-        "Name": "모션 감소"
-      }
-    }
-  },
-  "Sync": {
-    "Delete": {
-      "Failure": "설정을 삭제할 수 없습니다. 일시적인 오류입니다.",
-      "Success": "설정이 삭제되었습니다. 동기화가 비활성화되었습니다."
-    },
-    "Merge": {
-      "Failure": "설정 병합 중 오류가 발생했습니다. 일시적인 오류입니다.",
-      "Success": "설정이 병합되었습니다."
-    },
-    "Sync": {
-      "Failure": "설정 동기화 중 오류가 발생했습니다. 일시적인 오류입니다.",
-      "Success": "설정이 동기화되었습니다."
-    }
-  },
-  "Tooltip": {
-    "Actions": {
-      "Acquire": "획득",
-      "Compare": "비교",
-      "Commonality": "🦘 Commonality",
-      "Equip": "장착",
-      "Favourite": "즐겨찾기",
-      "Garbage": "🦘 Garbage",
-      "Details": "🦘 Details",
-      "Lock": "잠금",
-      "Lore": "🦘 Lore",
-      "NotGarbage": "🦘 Not Garbage",
-      "SaveNew": "🦘 Save New",
-      "Select": "🦘 Select",
-      "Store": "이동",
-      "Unfavourite": "🦘 Unfavourite",
-      "Unlock": "잠금 해제",
-      "Vault": "보관"
-    },
-    "Item": {
-      "ExpiresIn": "{{duration}} 후에 만료됩니다.",
-      "NoDescription": "설명이 없습니다.",
-      "Quantity": "수량",
-      "QuantityMax": "최대"
-    },
-    "Items": {
-      "StatTotal": "총"
-    },
-    "Maps": {
-      "Availability": "{{period}} 마다 사용가능",
-      "UntrackableChecklistItem": "체크리스트 추적 해제"
-    }
-  },
-  "Triumphs": {
-    "AllCompleted": "모두 완료했습니다.",
-    "NonePartiallyComplete": "작업중인 업적이 없습니다. 업적을 고르고 작업을 시작하세요!",
-    "NearTriumphs": "🦘 Near",
-    "NearLimit": "🦘 Display is limited to {{number}} triumphs for performance reasons.",
-    "NearTotal": "🦘 You have **{{number}}** triumphs remaining.",
-    "PartiallyComplete": "🦘 {{number}} Partially Completed",
-    "Classified": {
-      "Description": "이 업적은 기밀 처리되어 있으며 나중에 공개될 수 있습니다.",
-      "Name": "기밀 업적"
-    },
-    "Details": {
-      "Completed": "완료함",
-      "FireteamLoading": "🦘 Loading fireteam members",
-      "NoClanOrFireteam": "화력팀이나 클랜에 가입하여 당신의 동료 수호자들이 당신 옆에 어떻게 있는지 보세요!",
-      "NotCompleted": "완료하지 않음",
-      "OpenView": "세부 정보"
-    },
-    "DudTriumphs": "🦘 Duds",
-    "EventCard": "🦘 Event Card",
-    "LegacySeal_plural": "유산 인장",
-    "LegacyTriumph_plural": "유산 업적",
-    "SelectEntry": "읽을 지식을 선택하세요.",
-    "Record": {
-      "Commonality": {
-        "Description": "Voluspa에서 확인되는 유저 중 이 업적을 완료한 플레이어 비율입니다."
-      },
-      "Expiration": {
-        "Description": "이 업적은 만료되면 더 이상 얻을 수 없습니다."
-      },
-      "Expires": "{{season}} 시즌 종료와 함께 만료됩니다.",
-      "IntervalFraction": "{{numerator}} / {{denominator}}",
-      "Score": {
-        "Description": "이 업적에서 얻을 수 있는 점수입니다."
-      },
-      "ScoreInterval": {
-        "Description": "총 업적 점수 중 현재 단계에서 얻을 수 있는 점수입니다."
-      }
-    },
-    "PotentialUnattainedScore": "🦘 The Guardian has **{{number}}** score waiting to be to unlocked.",
-    "RecordsRedeemed": "🦘 You have redeemed all of these records and chosen to hide them.",
-    "RecordsUnavailable": "🦘 There are no records available for display.",
-    "Seal": "🦘 Seal",
-    "SealTitleSeasonSuffix": "{{title}} ({{season}}시즌)",
-    "Seal_plural": "인장",
-    "Seals": {
-      "AvailableTitle": "🦘 Available title: **{{title}}**",
-      "Commonality": {
-        "Description": "Voluspa에서 확인되는 유저 중 이 인장을 획득한 플레이어 비율입니다.",
-        "Name": "인장 희소성"
-      },
-      "CommonalityGilded": {
-        "Description": "Voluspa에서 확인되는 유저 중 이 인장을 획득하고 금박을 입힌 플레이어 비율입니다.",
-        "Name": "금박 인장 희소성"
-      },
-      "PlayerTitle": "🦘 Player title: **{{title}}**",
-      "SealCompleted": "완료한 인장",
-      "SealGilded": "금박 인장",
-      "SealGildedProgress": "금박 진행도",
-      "SealProgress": "인장 진행도"
-    },
-    "Secret": {
-      "Name": "비밀 업적",
-      "Description": "아직 풀지 못한 수수께끼입니다."
-    },
-    "Sorted": {
-      "Completion": "완성도 정렬",
-      "Name": "🦘 Sorted by **Name**",
-      "Rarity": "희귀도 정렬",
-      "Score": "점수 정렬",
-      "Unsorted": "번지 기준 정렬"
-    },
-    "Options": {
-      "GrantsScore": {
-        "Name": "🦘 Grants Score",
-        "Description": "🦘 Only display records which grant triumph score upon completion."
-      }
-    },
-    "NoTrackedRecords": "추적중인 업적이 없습니다!",
-    "TrackedTriumphs": "추적중인 업적",
-    "Triumph_plural": "업적",
-    "UnobtainableTriumphs": "획득 불가능",
-    "UnredeemedTriumphs": "획득하지 않은 업적",
-    "TrackedSync": "🦘 Sync tracked triumphs between devices with Voluspa."
-  },
-  "Upsell": {
-    "Auth": {
-      "Description": "목표 및 기타 진행률 데이터를 확인하려고 합니까? Bungie.net에 인증해서 Braytech가 프로필 데이터를 안전하게 읽을 수 있도록 해주세요."
-    },
-    "Subscriptions": {
-      "Description": "우리 모두 광고를 싫어합니다. 구려요. 짜증나요. 우리의 개인정보를 수집해 다른 이들에게 팔아버린다구요.\n\nPatreon을 통해 앱을 지원함으로써 광고가 Braytech에서 멀리 떨어질 수 있도록 도와주세요. 한번만이던, 정기적이던, 몇 천원 이여도 도움이 됩니다!",
-      "Name": "광고 없는 Braytech 지키기",
-      "RewardSeraph": "🦘 Unlock the **Seraph** medal, a symbol of dedication and commitment to protecting the Warmind and its assets, and bettering humankind.",
-      "RewardSubmind": "🦘 Submind tier patrons unlock this animated Warmind ultra medal.",
-      "SupportBraytech": "🦘 Support Braytech",
-      "Rewards": "🦘 Unlock unique profile medals when you subscribe to Braytech's Patreon.",
-      "Leaderboards": "🦘 Leaderboards are a lot of work, which while thought-provoking, is particularly costly. I had to buy Databases for Dummies and everything. If you like collecting things, maybe we could [interest you in unlocking some a rare medal](https://www.patreon.com/braytech) for your Braytech profile?"
-    },
-    "Profile": {
-      "Action": "당신의 캐릭터를 선택하세요",
-      "Description": "목표의 진행 상황, 발견한 업적, 수집한 수집품 등을 보고 싶으신가요? 당신의 프로필을 불러오고 캐릭터를 선택하세요."
-    }
-  },
-  "Vendor": {
-    "FailureStrings": {
-      "NoFunds": "재료가 충분하지 않습니다.",
-      "NoInventorySpace": "공간이 부족합니다.",
-      "UniquenessViolation": "한 번에 하나만 소지할 수 있습니다.",
-      "UnknownError": "🦘 Unknown error"
-    }
-  },
-  "Voluspa": {
-    "AdjustGraph": {
-      "Description": "🦘 View this data in a different manner by selecting an alternate type of graph.\n\n_Voluspa_ collects data from {{crawled}} players. Of those players, {{assessed}} were successfully assessed for the purpose of providing this data. Of {{assessed}} assessed players, {{frequency}} have discovered this collectible.",
-      "Description_record": "🦘 View this data in a different manner by selecting an alternate type of graph.\n\n_Voluspa_ collects data from {{crawled}} players. Of those players, {{assessed}} were successfully assessed for the purpose of providing this data. Of {{assessed}} assessed players, {{frequency}} have completed this record.",
-      "Name": "🦘 Adjust Graph"
-    },
-    "CollectedBy": "{{number}}명의 유저가 이것을 획득했습니다.",
-    "Commonality": "희소성",
-    "Frequency": "🦘 Frequency",
-    "CompletedBy": "{{number}}명의 유저가 이것을 완료했습니다.",
-    "Crawled": "{{number}}명의 유저가 Voluspa에 등록되어 있습니다.",
-    "GraphType": {
-      "Frequency": "🦘 Frequency",
-      "TimeSeries": "🦘 Time Series"
-    },
-    "LastCrawled": "{{time}} 전 색인됨",
-    "ProfilesAssessed": "🦘 Profiles Assessed"
-  },
-  "Weeklies": {
-    "Challenges": {
-      "ActivityBonus": "활동 보너스",
-      "ArtifactPower": {
-        "Description": "경험치를 획득함에 따라 장착한 시즌 유물이 제공하는 보너스 전투력입니다.",
-        "Name": "유물 전투력 보너스"
-      },
-      "ArtifactPowerBonus": "전투력 보너스",
-      "GearPower": {
-        "Description": "현재 장착한 장비들의 평균 전투력입니다.",
-        "Name": "장비 전투력"
-      },
-      "NoChallenges": "당신의 수호자가 이번주에 할 수 있는 모든 도전들을 부숴버린 것 같습니다.",
-      "Power": {
-        "Description": "전투력 점수는 현재 착용한 모든 장비의 전투력 수치의 평균입니다. 전투력 점수가 높으면 적에게 주는 피해량과 방어가 함께 증가합니다.",
-        "Name": "빛"
-      },
-      "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
+     능 ",
       "Type": {
-        "Rituals": "🦘 Rituals",
+        "Rituals": "의식 활동",
         "Bounties": "현상금",
         "Crucible": "시련의 장",
         "Dungeon": "던전",
